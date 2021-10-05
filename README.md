@@ -1,6 +1,6 @@
 # Ultrasound Variational Style Transfer to Generate Images Beyond the Observed Domain
 
-Official code for paper [Ultrasound Variational Style Transfer to Generate Images Beyond the Observed Domain](google.com)
+Official code for paper [Ultrasound Variational Style Transfer to Generate Images Beyond the Observed Domain](https://link.springer.com/content/pdf/10.1007%2F978-3-030-88210-5_2.pdf)
 
 # Pretrained Model
 The pretrained model for our network can be found [here](https://drive.google.com/file/d/15g-j4WSp74emhapwHXzyOSR_q8YDaVKO/view?usp=sharing), where you should initialize the network by the following parameters:
@@ -17,4 +17,12 @@ The pretrained model for our network can be found [here](https://drive.google.co
 # Credit 
 If you use the code or the paper in any of your work, please remember to cite us
 ```bash
+@incollection{hung2021ultrasound,
+  title={Ultrasound Variational Style Transfer to Generate Images Beyond the Observed Domain},
+  author={Hung, Alex Ling Yu and Galeotti, John},
+  booktitle={Deep Generative Models, and Data Augmentation, Labelling, and Imperfections},
+  pages={14--23},
+  year={2021},
+  publisher={Springer}
+}
 ```
